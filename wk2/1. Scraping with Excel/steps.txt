@@ -1,0 +1,5 @@
+open weather data
+copy url
+
+open excel
+data -> import from web -> paste -> load
